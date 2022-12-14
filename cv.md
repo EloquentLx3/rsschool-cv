@@ -1,11 +1,19 @@
 #Bohdan Bohdan
 
-##Discord: Lx3
+##Contacts
 
-###My name is Bohdan, im 23 years old. I from Ukraine. I like to learn Javascript and i want to be front-end developer in the future.
-#I don't have any skills in IT. > Don't forget...when you gaze into the darkness...the darkness gazes back into you.
-`console.log("Hello")`
+Discord: Lx3
 
-I'm just started, so i don't have experience.
-I'm a doctor.
-A2
+##About me
+My name is Bohdan, im 23 years old. I from Ukraine. I like to learn Javascript and i want to be front-end developer in the future.
+I don't have any skills in IT. 
+> Don't forget...when you gaze into the darkness...the darkness gazes back into you.>
+
+##My favourite code
+`reverse=a=>[...a].map(a.pop,a)`
+
+##My skills
+
+I'm just started, so i don't have any experience in IT.
+I'm a accountant.
+English: A2
